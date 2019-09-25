@@ -39,7 +39,7 @@ I worked in pairs and groups during my time at Makers Academy. For our <a href="
 
 **Fast learner**
 
-Software development is a constantly evolving field, and there is always something new and exciting to learn. Whether it be a new technology ( React Native), a new concept or a new problem, I am quick to pick up on things. I am currently at the research and planning stage of a personal project, where I hope to  use geofencing and image recognition of buildings (using python and openCV) to create virtual tour guide through camera phones!
+Software development is a constantly evolving field, and there is always something new and exciting to learn. Whether it be a new technology, a new concept or a new problem, I am quick to pick up on things. I am currently at the research and planning stage of a personal project, where I hope to  use geofencing and image recognition of buildings (using python and openCV) to create virtual tour guide through camera phones!
 
 
 **Attention to detail**
