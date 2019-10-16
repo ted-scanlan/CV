@@ -6,7 +6,7 @@ Some notes about me:
 
 * I'm a full-stack junior software developer, recently graduated from Makers Academy, and equipped with a relevant set of skills and a newfound ability to pick up any tech or language you throw at me!
 
-* Working as a research analyst for 18 months, and then a data analyst for a further 6 months, I built a solid foundation of analytical knowledge. After taking a temporary role in a television company, I realised my interests truly lay somewhere more technical and unambiguous. And then I discovered coding..
+* Working as a research analyst for 18 months, and then a data analyst, I built a solid foundation of analytical knowledge. After taking a temporary role in a television company, I realised my interests truly lay somewhere more technical and unambiguous. And then I discovered coding..
 
 * For me, Software Development hits the right spot between analytical and creative thinking, and I enjoy the imaginativeness that it requires. I get a real kick out of making things, and even more so when those things are, or could be, useful to other people.
 
